@@ -1,0 +1,797 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1449px) {
+  
+    
+  .what__content p {
+	font-size: 27px;
+	height: 122px;
+	margin-top: 25px;
+}  
+  .footer__lf {
+	width: 30.5%;
+}  
+ .contact__area {
+	padding-bottom: 100px;
+}   
+    
+    
+ .hero__wrap {
+	max-width: 1130px;
+	margin: auto;
+}   
+    
+    
+    
+    
+    
+    
+    
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+ .header__menu ul li a {
+	font-size: 16px;
+	padding: 0 15px;
+}   
+    
+ .hero__wrap h2 {
+	font-size: 50px;
+	margin-bottom: 40px;
+}   
+ .hero__wrap span {
+	font-size: 25px;
+}   
+  .hero_area {
+	height: 700px;
+}  
+    
+  
+.team__area {
+  padding: 70px 0;
+}
+.team__title h3 {
+  font-size: 40px;
+  margin-bottom: 40px;
+}
+.team__single__item {
+  width: 31%;
+}
+.team__link img {
+  max-width: 100px;
+}
+.team__link h5 {
+  font-size: 28px;
+  margin-top: 40px;
+  height: 100px;
+}
+.team__single__item:nth-child(2) .team__link img {
+  max-width: 80px;
+}
+.work__video {
+  height: 600px;
+}
+.what__title h4 {
+  font-size: 40px;
+  margin-bottom: 40px;
+}
+.what__title p {
+  font-size: 28px;
+  margin-bottom: 40px;
+}
+.what__box {
+  padding: 40px;
+}
+.what__content h5 {
+  font-size: 28px;
+}
+.what__content p {
+  font-size: 23px;
+  height: 110px;
+}
+.work__Area {
+  padding-bottom: 70px;
+}
+.service__titel h4 {
+  font-size: 40px;
+  margin-bottom: 40px;
+}
+
+.manage__icn img {
+  max-width: 50px;
+}
+.manage__logo img {
+  max-width: 167px;
+}
+.manage__content h5 {
+  font-size: 28px;
+}
+.manage__menu ul li {
+  font-size: 19px;
+}
+.manage__area {
+  padding: 70px 0;
+}
+.contact__top h4 {
+  font-size: 30px;
+}
+.contact__title h5 {
+  font-size: 30px;
+}
+.contact__title p {
+  font-size: 25px;
+}
+.footer__contact-txt p {
+  font-size: 14px;
+}
+.footer__menu ul li a {
+  font-size: 14px;
+}
+.footer__menu h6 {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+.footer__lf {
+  width: 31%;
+}  
+ .contact__area {
+	padding-bottom: 70px;
+}   
+ .service__area {
+	padding-bottom: 70px;
+}   
+    
+ .hero__wrap {
+	max-width: 900px;
+	margin: auto;
+}   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+   
+
+    
+    .header__menu ul li a {
+	font-size: 14px;
+	padding: 0 12px;
+}   
+  .header__logo {
+	max-width: 100px;
+}  
+ .hero__wrap h2 {
+	font-size: 50px;
+	margin-bottom: 40px;
+}   
+ .hero__wrap span {
+	font-size: 25px;
+}   
+  .hero_area {
+	height: 700px;
+}  
+    
+  
+.team__area {
+  padding: 70px 0;
+}
+.team__title h3 {
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+.team__single__item {
+  width: 31%;
+}
+.team__link img {
+  max-width: 80px;
+}
+.team__link h5 {
+  font-size: 22px;
+  margin-top: 30px;
+  height: 100px;
+}
+.team__single__item:nth-child(2) .team__link img {
+  max-width: 80px;
+}
+  .team__single__item:nth-child(1) .team__link img {
+	max-width: 95px;
+}
+.work__video {
+  height: 500px;
+  margin-bottom: 40px;
+}
+  .play-icon {
+	max-width: 150px;
+}
+.what__title h4 {
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+.what__title p {
+  font-size: 22px;
+  margin-bottom: 30px;
+}
+.what__box {
+  padding: 30px;
+}
+.what__content h5 {
+  font-size: 28px;
+}
+.what__content p {
+  font-size: 21px;
+  height: 110px;
+}
+.work__Area {
+  padding-bottom: 70px;
+}
+.service__titel h4 {
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+.manage__icn img {
+  max-width: 50px;
+}
+.manage__logo img {
+  max-width: 167px;
+}
+.manage__content h5 {
+  font-size: 28px;
+}
+.manage__menu ul li {
+  font-size: 19px;
+}
+.manage__area {
+  padding: 70px 0;
+}
+.contact__top h4 {
+  font-size: 25px;
+}
+.contact__title h5 {
+  font-size: 30px;
+}
+.contact__title p {
+  font-size: 22px;
+}
+.footer__contact-txt p {
+  font-size: 14px;
+}
+.footer__menu ul li a {
+  font-size: 14px;
+}
+.footer__menu h6 {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+  .footer__ri {
+	width: 100%;
+}
+.footer__lf {
+  width: 100%;
+  margin-bottom: 30px;
+}  
+  .foter__fx {
+	display: block;
+}
+ .contact__area {
+	padding-bottom: 70px;
+}   
+ .service__area {
+	padding-bottom: 70px;
+}   
+   
+  .header__wrap {
+	height: 72px;
+	padding: 0 20px;
+}  
+ .team__logo {
+	max-width: 65px;
+}   
+  .what__single__item {
+	width: 48.5%;
+	border-radius: 20px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	padding-right: 25px;
+	margin-bottom: 30px;
+}  
+ .what__content {
+	max-width: 100%;
+	padding-left: 30px;
+	margin-left: 25px !important;
+	margin: 0;
+}   
+ 
+.service__single__item p {
+  font-size: 20px;
+}
+.service__single__item span {
+  width: 100px;
+  height: 100px;
+}
+.service__single__item span img {
+  max-width: 50px;
+}
+.service__btm__single__itm span {
+  width: 100px;
+  height: 100px;
+}
+.service__btm__single__itm span img {
+  max-width: 50px;
+}
+.service__btm__single__itm p {
+  font-size: 20px;
+}
+.service__btm__single__itm h5 {
+  font-size: 25px;
+}
+.service__box::before {
+  height: 330px;
+  top: 16%;
+}   
+.manage__single__box {
+	width: 47%;
+	position: relative;
+	margin-bottom: 30px;
+}    
+  .manage__menu {
+	margin-bottom: 15px;
+	max-width: 325px;
+	height: 210px;
+}  
+  .manage__single__box::before {
+	display: none;
+}  
+    
+    
+ .hero__wrap {
+	max-width: 700px;
+	margin: auto;
+}   
+    
+    
+    
+    
+    
+    
+    
+}
+ 
+
+/* SM Small Device :320px. */
+@media only screen and (min-width: 300px) and (max-width: 767px) {
+
+    
+    
+       
+    .header__menu ul li a {
+	font-size: 14px;
+	padding: 0 12px;
+}   
+  .header__logo {
+	max-width: 50%;
+}  
+ .hero__wrap h2 {
+	font-size: 25px;
+	margin-bottom: 30px;
+}   
+ .hero__wrap span {
+	font-size: 20px;
+}   
+  .hero_area {
+	height: auto;
+	padding-top: 140px;
+	padding-bottom: 40px;
+	background-size: 100% 100%;
+}  
+  
+.hero__wrap a {
+  width: 100%;
+  height: 55px;
+  font-size: 18px;
+  padding-left: 20px;
+}  
+  
+.team__area {
+  padding: 50px 0;
+}
+.team__title h3 {
+  font-size: 20px;
+  margin-bottom: 25px;
+}
+.team__single__item {
+  width: 100%;
+  margin-bottom: 20px;
+}
+.team__link img {
+  max-width: 80px;
+}
+.team__link h5 {
+  font-size: 22px;
+  margin-top: 30px;
+  height: 100px;
+}
+.team__single__item:nth-child(2) .team__link img {
+  max-width: 80px;
+}
+  .team__single__item:nth-child(1) .team__link img {
+	max-width: 95px;
+}
+.work__video {
+  height: auto;
+  margin-bottom: 40px;
+}
+  .play-icon {
+	max-width: 50px;
+}
+.what__title h4 {
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+.what__title p {
+  font-size: 18px;
+  margin-bottom: 25px;
+}
+.what__box {
+  padding: 20px;
+}
+.what__content h5 {
+  font-size: 22px;
+}
+  .what__content::before {
+	display: block;
+	width: 5px;
+}
+.what__content p {
+  font-size: 16px;
+  height: auto;
+}
+.work__Area {
+  padding-bottom: 70px;
+}
+.service__titel h4 {
+  font-size: 25px;
+  margin-bottom: 25px;
+}
+.manage__icn img {
+  max-width: 50px;
+}
+.manage__logo img {
+  max-width: 167px;
+}
+  .manage__content {
+	text-align: center;
+}
+.manage__content h5 {
+  font-size: 25px;
+}
+  .manage__top {
+	margin-bottom: 20px;
+}
+.manage__menu ul li {
+  font-size: 19px;
+  display: inline-block;
+}
+.manage__area {
+  padding: 50px 0;
+}
+.contact__top h4 {
+  font-size: 18px;
+}
+  .contact__top h4 br {
+	display: none;
+}
+.contact__title h5 {
+  font-size: 25px;
+}
+.contact__title p {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+.footer__contact-txt p {
+  font-size: 14px;
+}
+.footer__menu ul li a {
+  font-size: 14px;
+}
+.footer__menu h6 {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+  .footer__ri {
+	width: 100%;
+	flex-wrap: wrap;
+}
+.footer__lf {
+  width: 100%;
+  margin-bottom: 30px;
+}  
+  .foter__fx {
+	display: block;
+}
+ .contact__area {
+	padding-bottom: 70px;
+}   
+ .service__area {
+	padding-bottom: 0;
+}   
+   
+  .header__wrap {
+	height: 72px;
+	padding: 0 20px;
+}  
+ .team__logo {
+	max-width: 56px;
+	display: block;
+}   
+  .header__menu {
+	display: none;
+}
+  .what__single__item {
+	width: 100%;
+	border-radius: 15px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+	margin-bottom: 25px;
+	padding-left: 20px;
+}  
+ .what__content {
+	max-width: 100%;
+	padding-left: 0;
+	margin-left: 0px !important;
+	margin: 0;
+	padding-left: 20px;
+}   
+  .what__content::before {
+	display: block;
+	width: 5px;
+	top: 0;
+}
+ 
+.service__single__item p {
+  font-size: 10px;
+  margin-bottom: 10px;
+  margin-top: 0;
+}
+.service__single__item span {
+  width: 40px;
+  height: 40px;
+}
+.service__single__item span img {
+  max-width: 22px;
+}
+.service__btm__single__itm span {
+  width: 40px;
+  height: 40px;
+}
+.service__btm__single__itm span img {
+  max-width: 22px;
+}
+.service__btm__single__itm p {
+  font-size: 10px;
+  margin-bottom: 40px;
+}
+  .service__btm__single__itm p::before {
+	position: absolute;
+	width: 2px;
+	height: 28px;
+	border: 1px solid #E78E3D;
+	content: "";
+	bottom: -34px;
+	left: 0;
+	right: 0;
+	margin: auto;
+	border-style: dashed;
+}
+.service__btm__single__itm h5 {
+  font-size: 10px;
+}
+.service__box::before {
+  height: 99px;
+  top: 17%;
+  display: block;
+  border-width: 3px;
+}   
+.manage__single__box {
+	width: 100%;
+	position: relative;
+	margin-bottom: 20px;
+}    
+  .manage__menu {
+	margin-bottom: 15px !important;
+	max-width: 325px;
+	height: 210px;
+	margin: auto;
+	text-align: left;
+}  
+  .manage__single__box::before {
+	display: none;
+}  
+   
+  
+  .what__single__item:nth-child(3) {
+	margin-bottom: 20px;
+}  
+    
+.service__top {
+	display: flex;
+}    
+  .service__single__item {
+	width: 30%;
+	text-align: center;
+	margin-bottom: 20px;
+	display: flex;
+	flex-direction: column;
+} 
+  .service__btm__single__itm {
+	width: 30%;
+	margin-bottom: 20px;
+}
+ .service__btm {
+	max-width: 1000px;
+	margin: auto;
+	display: flex;
+	align-items: start;
+	justify-content: space-between;
+	margin-top: 30px;
+}   
+ .manage__bt a {
+	width: 100%;
+	height: 55px;
+	font-size: 20px;
+}   
+ .contact__top {
+	text-align: center;
+	border-radius: 20px;
+	background: #FCF5E1;
+	height: auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: relative;
+	margin-bottom: 25px;
+	padding: 20px;
+}   
+  
+.contact__single__form input {
+  padding: 0 15px;
+  height: 50px;
+  font-size: 15px;
+}
+.contact__single__form {
+  margin-bottom: 20px;
+}
+.contact__single__form.contact__inp-wd {
+  width: 100%;
+}
+.contact__text__area textarea {
+  height: 100px;
+  padding: 15px 15px;
+}  
+ .contact__btn a {
+	width: 80%;
+	height: 50px;
+	font-size: 18px;
+	margin-top: 30px;
+}   
+ .contact__form {
+	max-width: 1185px;
+	margin: auto;
+	padding-bottom: 40px;
+}   
+  .footer__contact-icn {
+	margin-right: 12px;
+	width: auto;
+	height: auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	max-width: 22px;
+}  
+ .footer__menu__single__item {
+	width: 100%;
+}   
+  .footer__menu__single__item:last-child {
+	width: 100%;
+}  
+  .footer__area {
+	padding-bottom: 20px;
+}  
+    
+  .header__bar {
+  display: none;
+}  
+    
+    
+    
+    
+    
+    
+}
+    
+
+
+
+
+
+
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+   
+    
+    
+ .service__top {
+	display: flex;
+}   
+    
+  .service__single__item {
+	width: 30%;
+	text-align: center;
+	margin-bottom: 20px;
+	display: flex;
+	flex-direction: column-reverse;
+}  
+    
+ .service__single__item span img {
+	max-width: 40px;
+}   
+ .service__single__item span {
+	width: 70px;
+	height: 70px;
+}   
+    
+ .service__single__item p {
+	font-size: 17px;
+	margin-bottom: 0;
+	margin-top: 15px;
+}   
+ .service__btm__single__itm span {
+	width: 70px;
+	height: 70px;
+}  
+ .service__btm__single__itm span img {
+	max-width: 40px;
+}   
+ .service__btm__single__itm p {
+	font-size: 17px;
+}   
+.service__btm {
+	display: flex;
+}    
+   .service__btm__single__itm h5 {
+	font-size: 18px;
+} 
+.service__box::before {
+	display: block;
+	height: 190px;
+	top: 7%;
+	border-width: 5px;
+}    
+     
+}
+
+/*exception for service box border  */
+
+@media only screen and (min-width: 300px) and (max-width: 576px) {
+
+
+.service__box::before{
+  height: 120px;
+}
+
+
+
+}
